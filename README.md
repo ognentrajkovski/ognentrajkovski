@@ -1,6 +1,6 @@
 # Ognen Trajkovski | ML Enthusiast
 
-<img src="https://komarev.com/ghpvc/?username=ognentrajkovski"/> [![GitHub followers](https://img.shields.io/github/followers/ognentrajkovski.svg?style=social&label=Follow)](https://github.com/ognentrajkovski?tab=followers)<br/>
+[![GitHub followers](https://img.shields.io/github/followers/ognentrajkovski.svg?style=social&label=Follow)](https://github.com/ognentrajkovski?tab=followers)<br/>
 
 ## ***About me***
 
