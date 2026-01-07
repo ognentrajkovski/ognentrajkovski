@@ -4,6 +4,4 @@
 
 ## ***About me***
 
-Hi, I'm Ognen, a Software Engineering student with a passion for AI innovation. Currently working on:
-- End-to-End Image Segmentation
-- RAG System using LangChain and GPT model
+Hi, I'm Ognen, a 4th year Software Engineering student with a passion for AI innovation. 
