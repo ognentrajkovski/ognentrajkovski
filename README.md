@@ -1,4 +1,4 @@
-# Ognen Trajkovski | ML Enthusiast
+# Ognen Trajkovski 
 
 [![GitHub followers](https://img.shields.io/github/followers/ognentrajkovski.svg?style=social&label=Follow)](https://github.com/ognentrajkovski?tab=followers)<br/>
 
